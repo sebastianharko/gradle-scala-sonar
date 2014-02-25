@@ -1,0 +1,6 @@
+gradle.properties
+.gradle/
+*iml
+*ipr
+*iws
+build/
